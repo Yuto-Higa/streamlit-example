@@ -1,40 +1,67 @@
-annotated-types @ file:///home/conda/feedstock_root/build_artifacts/annotated-types_1733247046149/work
-anyio @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_anyio_1742243108/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1749972191589/work/certifi
-click @ file:///D:/bld/click_1747811308011/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
-dnspython @ file:///home/conda/feedstock_root/build_artifacts/dnspython_1733256735222/work
-email_validator @ file:///home/conda/feedstock_root/build_artifacts/email-validator-meta_1733300719943/work
-exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1746947292760/work
-fastapi @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastapi_1742822207/work
-fastapi-cli @ file:///home/conda/feedstock_root/build_artifacts/fastapi-cli_1734302308128/work
-h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1745526374115/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1738578511449/work
-hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1737618293087/work
-httpcore @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_httpcore_1745602916/work
-httptools @ file:///D:/bld/httptools_1732707683889/work
-httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1733663348460/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1737618333194/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
-markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1733250460757/work
-MarkupSafe @ file:///D:/bld/markupsafe_1733219622495/work
-mdurl @ file:///home/conda/feedstock_root/build_artifacts/mdurl_1733255585584/work
-pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1749927112905/work
-pydantic_core @ file:///D:/bld/bld/rattler-build_pydantic-core_1746625395/work
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1736243443484/work
-python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dotenv_1742948348/work
-python-multipart @ file:///home/conda/feedstock_root/build_artifacts/python-multipart_1734420773152/work
-PyYAML @ file:///D:/bld/pyyaml_1737454674198/work
-rich @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich_1743371105/work/dist
-rich-toolkit @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich-toolkit_1733750834/work
-shellingham @ file:///home/conda/feedstock_root/build_artifacts/shellingham_1733300899265/work
-sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1733244044561/work
-starlette @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_starlette_1744661396/work
-typer==0.16.0
-typer-slim==0.16.0
-typing-inspection @ file:///home/conda/feedstock_root/build_artifacts/typing-inspection_1747870647094/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1748959427/work
-uvicorn @ file:///D:/bld/uvicorn_1748779640032/work
-watchfiles @ file:///D:/bld/watchfiles_1744451390021/work
-websockets @ file:///D:/bld/websockets_1741285472929/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+# created-by: conda 24.11.3
+annotated-types=0.7.0=pyhd8ed1ab_1
+anyio=4.9.0=pyh29332c3_0
+bzip2=1.0.8=h2466b09_7
+ca-certificates=2025.6.15=h4c7d964_0
+certifi=2025.6.15=pyhd8ed1ab_0
+click=8.2.1=pyh7428d3b_0
+colorama=0.4.6=pyhd8ed1ab_1
+dnspython=2.7.0=pyhff2d567_1
+email-validator=2.2.0=pyhd8ed1ab_1
+email_validator=2.2.0=hd8ed1ab_1
+exceptiongroup=1.3.0=pyhd8ed1ab_0
+fastapi=0.115.12=pyh29332c3_0
+fastapi-cli=0.0.7=pyhd8ed1ab_0
+h11=0.16.0=pyhd8ed1ab_0
+h2=4.2.0=pyhd8ed1ab_0
+hpack=4.1.0=pyhd8ed1ab_0
+httpcore=1.0.9=pyh29332c3_0
+httptools=0.6.4=py313ha7868ed_0
+httpx=0.28.1=pyhd8ed1ab_0
+hyperframe=6.1.0=pyhd8ed1ab_0
+idna=3.10=pyhd8ed1ab_1
+jinja2=3.1.6=pyhd8ed1ab_0
+libexpat=2.7.0=he0c23c2_0
+libffi=3.4.6=h537db12_1
+liblzma=5.8.1=h2466b09_2
+libmpdec=4.0.0=h2466b09_0
+libsqlite=3.50.1=h67fdade_0
+libzlib=1.3.1=h2466b09_2
+markdown-it-py=3.0.0=pyhd8ed1ab_1
+markupsafe=3.0.2=py313hb4c8b1a_1
+mdurl=0.1.2=pyhd8ed1ab_1
+openssl=3.5.0=ha4e3fda_1
+pip=25.1.1=pyh145f28c_0
+pydantic=2.11.7=pyh3cfb1c2_0
+pydantic-core=2.33.2=py313ha8a9a3c_0
+pygments=2.19.1=pyhd8ed1ab_0
+python=3.13.5=h261c0b1_101_cp313
+python-dotenv=1.1.0=pyh29332c3_1
+python-multipart=0.0.20=pyhff2d567_0
+python_abi=3.13=7_cp313
+pyyaml=6.0.2=py313hb4c8b1a_2
+rich=14.0.0=pyh29332c3_0
+rich-toolkit=0.11.3=pyh29332c3_0
+shellingham=1.5.4=pyhd8ed1ab_1
+sniffio=1.3.1=pyhd8ed1ab_1
+starlette=0.46.2=pyh81abbef_0
+tk=8.6.13=h2c6b04d_2
+typer=0.16.0=pyh167b9f4_0
+typer-slim=0.16.0=pyhe01879c_0
+typer-slim-standard=0.16.0=hf964461_0
+typing-extensions=4.14.0=h32cad80_0
+typing-inspection=0.4.1=pyhd8ed1ab_0
+typing_extensions=4.14.0=pyhe01879c_0
+tzdata=2025b=h78e105d_0
+ucrt=10.0.22621.0=h57928b3_1
+uvicorn=0.34.3=pyh5737063_0
+uvicorn-standard=0.34.3=h5737063_0
+vc=14.3=h2b53caa_26
+vc14_runtime=14.42.34438=hfd919c2_26
+vs2015_runtime=14.42.34438=h7142326_26
+watchfiles=1.0.5=py313hf3b5b86_0
+websockets=15.0.1=py313ha7868ed_0
+yaml=0.2.5=h8ffe710_2
